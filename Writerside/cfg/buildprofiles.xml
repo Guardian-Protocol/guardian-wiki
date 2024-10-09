@@ -3,11 +3,19 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
-    <build-profile instance="in">
+    <variables>
+        <primary-color>#FFBE31</primary-color>
+    </variables>
+    <build-profile instance="g">
         <variables>
             <noindex-content>true</noindex-content>
+            <header-logo>guardian.png</header-logo>
+            <color-preset>vivid</color-preset>
         </variables>
+        <footer>
+            <social type="twitter" href="https://x.com/GuardianDeFi"/>
+            <link href="https://guardiandefi.xyz/">GuardianDeFi</link>
+        </footer>
     </build-profile>
 
 </buildprofiles>

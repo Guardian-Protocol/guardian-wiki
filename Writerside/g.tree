@@ -2,9 +2,12 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="in"
-                 name="Instance Name"
+<instance-profile id="g"
+                 name=" wiki"
                  start-page="starter.md">
 
     <toc-element topic="starter.md"/>
+    <toc-element topic="Stake.md"/>
+    <toc-element topic="Unstake.md"/>
+    <toc-element topic="Withdraw.md"/>
 </instance-profile>
