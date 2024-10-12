@@ -10,4 +10,5 @@
     <toc-element topic="Stake.md"/>
     <toc-element topic="Unstake.md"/>
     <toc-element topic="Withdraw.md"/>
+    <toc-element topic="gvara.md"/>
 </instance-profile>

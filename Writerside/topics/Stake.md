@@ -1,6 +1,8 @@
 # Stake
-How it works: Stake vara and receive 1:1 gVARA, easy right? \
-On the Guardian page, you will be able to stake your vara on the stake section.
+How it works: Stake Vara and receive gVara — simple, right? \
+\
+On the Guardian page, you will be able to stake your Vara in the staking section. The team has developed an 
+architecture that automates the entire staking process.
 
 ![stake_page.png](stake_page.png)
 
@@ -17,10 +19,9 @@ On the Guardian page, you will be able to stake your vara on the stake section.
 In order to stake vara on the guardianDeFi the guardian team develop an architecture
 that will automate all the staking process.
 
-The following image explain the staking process
+The following image explains the staking process:
 
 ![stake.png](stake.png)
 
-First the user sends their vara to a GuardianProxy a proxy, this proxy stakes the user vara and at the same time
-sends a transaction to a LiquidContract this contract handle the transaction and then mint the 1:1 gVARA
-to the user wallet.
+First, the user sends their Vara to a Guardian proxy. This proxy stakes the user's Vara and simultaneously sends a 
+transaction to a LiquidContract. This contract manages the transaction and then mints the gVara to the user’s wallet.
